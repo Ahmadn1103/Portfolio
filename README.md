@@ -2,6 +2,16 @@
 
 ![Image](https://github.com/user-attachments/assets/39427f5a-c976-4a41-963b-618fa9aff1c7)
 
+![Image](https://github.com/user-attachments/assets/8a7ad0a2-d5dc-43ce-8158-404c8fc7b51b)
+
+![Image](https://github.com/user-attachments/assets/f6ef70fe-b328-46e4-9c6b-0b3d628ff66f)
+
+![Image](https://github.com/user-attachments/assets/177ebc8b-1f35-466a-81d3-a048329e8493)
+
+![Image](https://github.com/user-attachments/assets/774b2909-c137-4b8c-ad4c-1b4f31a8854a)
+
+![Image](https://github.com/user-attachments/assets/8b13c241-22e6-42b6-bb6f-68fa5b5c5b08)
+
 🚀 **[Live Site → Visit Here](https://ahmadn1103.databutton.app/portfolio)**
 
 A sleek, interactive portfolio website built to showcase my projects, technical skillset, and journey as a full-stack and AI-focused software developer. Designed for both aesthetics and performance, the site combines motion design, modular components, and real-time visual effects.
