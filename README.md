@@ -1,6 +1,6 @@
 # Portfolio Website – Ahmad Noori
 
-![Image](https://static.databutton.com/public/91296e1e-e415-41b6-bc55-4aac61d9840d/portfolio-preview.png)
+![Image](https://github.com/user-attachments/assets/39427f5a-c976-4a41-963b-618fa9aff1c7)
 
 A sleek, interactive portfolio website built to showcase my projects, technical skillset, and journey as a full-stack and AI-focused software developer. Designed for both aesthetics and performance, the site combines motion design, modular components, and real-time visual effects.
 
